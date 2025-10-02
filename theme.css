@@ -1,0 +1,19 @@
+:root {
+  /* Background & Surface */
+  --black: #000000;
+  --surface: #2A2A2A;
+  
+  /* Text */
+  --white: #FFFFFF;
+  --gray: #9E9E9E;
+  
+  /* Tech/Terminal */
+  --green: #00FF41;
+  --red: #FF0055;
+  
+  /* Utopia/Paradise */
+  --lavender: #B8A0FF;
+  --pink: #FF80BF;
+  --sky: #6BC4FF;
+  --mint: #7FFFD4;
+}
